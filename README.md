@@ -1,2 +1,3 @@
-# 2D_kalman_filter
-Implemented the kalman filter in octave and python.
+# Implementations of the Kalman Filter
+
+Attempt to implement the Kalman Filter in Python.
